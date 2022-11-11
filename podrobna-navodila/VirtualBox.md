@@ -10,4 +10,4 @@ Datoteko 'VirtualBox-x.x.x-Win.exe' shranimo na računalnik in jo zaženemo.
 ![VirtualBox3](./slike/3.png)
 ![VirtualBox4](./slike/4.png)
 ![VirtualBox5](./slike/5.png)
-![VirtualBox6](./slike/6.png)
+![VirtualBox6](./slike/6.png) 
