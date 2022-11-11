@@ -58,4 +58,4 @@ Ko imamo bootable USB, je naslednji korak izbira zagonske naprave. Pri tem je po
 Katera tipka nas pripelje v Boot Menu je odvisno od modela - Google it.
 
 Nadaljni proces je enak kot pri namestitvi v VM.
-[Podrobna navodila za install Fedore](./podrobna-navodila/Fedora.md)
+[Podrobna navodila za install Fedore](./Fedora.md)
