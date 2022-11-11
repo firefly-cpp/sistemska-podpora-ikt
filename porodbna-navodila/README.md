@@ -5,3 +5,6 @@
 
 ## Namestitev Linux Fedora
 [Podrobna navodila za namestitev Fedore](./podrobna-navodila/Fedora.md)
+
+## Namestitev Linux Fedora kot DualBoot
+[Podrobna navodila za pripravo DualBoot](./podrobna-navodila/Dual-boot.md)
