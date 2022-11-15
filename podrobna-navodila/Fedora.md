@@ -11,6 +11,9 @@ Pogoj: ISO Slika Fedora Linux
 ![VirtualBox8](./slike/8.png)
 ![VirtualBox9](./slike/9.png)
 ![VirtualBox10](./slike/10.png)
+
+Priporočeno je 3GB RAM-a, 2 jedra procesorja in 20GB prostora za disk.
+
 ![VirtualBox11](./slike/11.png)
 ![VirtualBox12](./slike/12.png)
 ![VirtualBox13](./slike/13.png)
