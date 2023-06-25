@@ -1,4 +1,6 @@
-<h1 align="center"> Sistemska podpora IKT </h1>
+<h1 align="center"> Sistemska podpora IKT 2023/2024</h1>
+
+## Dodatno gradivo za predmet Sistemska podpora IKT
 
 ## VirtualBox in Linux Fedora
 #### Namestitev VirtualBoxa
@@ -13,6 +15,8 @@
 V vsakem primeru pa je bolje preveriti, ali bo vsa strojna oprema delovala. Pred namestitvijo uporabite "okolje v živo" (angl. live environment) in preverite predvsem zvok, brezžično povezavo, Bluetooth, video in mikrofon.
 
 [Podrobna navodila za dual-boot](./podrobna-navodila/Dual-boot.md)
+
+## Literatura
 
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
