@@ -18,6 +18,9 @@ V vsakem primeru pa je bolje preveriti, ali bo vsa strojna oprema delovala. Pred
 
 ## Literatura
 
+## Povezave do uradne dokumentacije
+
+[1] [Fedora: Getting started](https://docs.fedoraproject.org/en-US/fedora/latest/getting-started/)
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
