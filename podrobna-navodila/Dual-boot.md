@@ -10,7 +10,7 @@ Programi, ki nam omogočajo ustvarjanje zagonskega USB iz ISO datoteke:
 * [Rufus](https://rufus.ie/en/)
 * [Fedora Media Writer](https://getfedora.org/en/workstation/download/)
 
-balenaEtcher je sicer priporočena s strani Fedore. Njen uporabniški vmesnik je preprost in enostaven za uporabo. Rufus je enako orodje .
+balenaEtcher je sicer priporočena s strani Fedore. Njen uporabniški vmesnik je preprost in enostaven za uporabo. Rufus je enako orodje.
 
 ## balenaEtcher
 
@@ -49,13 +49,13 @@ Dve možnosti:
 
 ### Dodatna informacija:
 
-Ustvarjen usb na windows računalniku ne bo prikazan. Tudi če imamo orodje, ga najverjetneje ne bo pravilno prebralo. USB sicer dela.
+Ustvarjen USB na Windows računalniku ne bo prikazan. Tudi če imamo orodje, ga najverjetneje ne bo pravilno prebralo. USB sicer dela.
 
 ![VirtualBox40](./slike/41.png)
 
 ## Zagon iz USB
-Ko imamo bootable USB, je naslednji korak izbira zagonske naprave. Pri tem je pomembno, da imamo USB ključ vstavljen v računalnik, preden ga ponovno zaženemo.
-Katera tipka nas pripelje v Boot Menu je odvisno od modela - Google it.
+Ko imamo bootable USB, je naslednji korak izbira zagonske naprave. Pri tem je pomembno, da imamo USB ključ vstavljen v računalnik, preden ga ponovno zaženemo. Tipka, ki nas pripelje v Boot Menu, je odvisna od modela - Google it.
 
-Nadaljni proces je enak kot pri namestitvi v VM.
+Nadaljni proces je enak kot pri namestitvi v VM.  
+
 [Podrobna navodila za install Fedore](./Fedora.md)

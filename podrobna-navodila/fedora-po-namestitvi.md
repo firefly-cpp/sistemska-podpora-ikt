@@ -1,11 +1,10 @@
 # Kaj storiti po namestitvi operacijskega sistema Fedora?
 
-V tem dokumentu je zbranih nekaj korakov, katere se priporoča izvesti po na novo nameščenem operacijskem sistemu Fedora. Nekaj korakov je dodanih glede na tematiko tega predmeta.
+V tem dokumentu je zbranih nekaj korakov, ki jih je priporočeno izvesti po namestitvi operacijskega sistema Fedora. Nekaj korakov je dodanih glede na tematiko tega predmeta.
 
 ## 1. Posodobitev sistema
 
-Takoj po namestitvi je najprej obvezno zagnati posodobitev sistema distribucije Linuxa. S tem korakom posodobimo pakete in se izognemo potencialnim
-varnostnim tveganjem. Prav tako je pomembno ta korak ponavljati vsakih nekaj dni.
+Takoj po namestitvi je najprej obvezno zagnati posodobitev sistema distribucije Linuxa. S tem korakom posodobimo pakete in se izognemo potencialnim varnostnim tveganjem. Prav tako je pomembno ta korak ponavljati vsakih nekaj dni.
 
 V Fedori to storimo s preprostim ukazom:
 
@@ -15,8 +14,7 @@ sudo dnf update
 
 ## 2. Omogočitev RPM Fusion repozitorijev
 
-Projekt RPM Fusion je repozitorij programske opreme in ponuja dodatne pakete, ki jih Fedora ne vključuje v lastne repozitorije (običajno zaradi neskladnosti s Fedorino
-definicijo proste programske opreme).
+Projekt RPM Fusion je repozitorij programske opreme in ponuja dodatne pakete, ki jih Fedora ne vključuje v lastne repozitorije (običajno zaradi neskladnosti s Fedorino definicijo proste programske opreme).
 
 ### Repozitorij Free
 
@@ -49,7 +47,7 @@ Okolje LaTeX je sistem za pisanje dokumentov, ki se običajno uporablja za ustva
 Za uporabo LaTeXa na Fedora OS potrebujemo:
 
 - TeX Live, ki je obsežna distribucija sistema TeX in sorodnih orodij, ki zagotavlja široko paleto paketov in virov za izdelavo dokumentov in
-- IDE za lažjo delo.
+- IDE za lažje delo.
 
 Distribucijo texlive namestimo na naslednji način:
 
@@ -85,7 +83,7 @@ git config --global user.name "Ime Priimek"
 git config --global user.email "moj@email.com"
 ```
 
-## Instalacija dodatnih paketov
+## Namestitev dodatnih paketov
 
 Poljubni paket, ki obstaja v Fedorinih repozitorijih, prav tako namestimo z
 ukazom:

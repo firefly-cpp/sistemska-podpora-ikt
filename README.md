@@ -12,7 +12,7 @@
 ## Linux Fedora (dual-boot)
 Čeprav Fedora deluje na številnih napravah, je priporočljivo, da uporabljate napravo, ki je navedena na strani s certificirano strojno opremo Linux. Običajno to naznanja nalepka "Ubuntu certified".
 
-V vsakem primeru pa je bolje preveriti, ali bo vsa strojna oprema delovala. Pred namestitvijo uporabite "okolje v živo" (angl. live environment) in preverite predvsem zvok, brezžično povezavo, Bluetooth, video in mikrofon.
+V vsakem primeru pa je boljše preveriti, ali bo vsa strojna oprema delovala. Pred namestitvijo uporabite "okolje v živo" (angl. live environment) in preverite predvsem zvok, brezžično povezavo, Bluetooth, video in mikrofon.
 
 [Podrobna navodila za dual-boot](./podrobna-navodila/Dual-boot.md)
 
