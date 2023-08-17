@@ -18,7 +18,7 @@ Priporočeno je 3GB RAM-a, 2 jedra procesorja in 20GB prostora za disk.
 ![VirtualBox12](./slike/12.png)
 ![VirtualBox13](./slike/13.png)
 
-## Inštalacija Linux Fedora
+## Namestitev Linux Fedora
 
 Priporočeno je 3GB RAM-a, 2 jedra procesorja in 20GB prostora za disk.
 Privzeto je **desni control** za konec zajema miške in tipkovnice.
@@ -38,9 +38,10 @@ Privzeto je **desni control** za konec zajema miške in tipkovnice.
 ![VirtualBox26](./slike/26.png)
 ![VirtualBox27](./slike/27.png)
 ![VirtualBox28](./slike/28.png)
-**Vidimo, da je namestitev uspela.**
+**Vidimo, da je bila namestitev uspešna.**
 
-Za zaustavitev računalnika obstaja več načinov. Eden izmed njih je pritisk tipke right-ctrl (desni control) in kar X na vrhnji vrstici.
+Za zaustavitev računalnika obstaja več načinov. Eden izmed njih je pritisk tipke right-ctrl (desni control) in X na vrhnji vrstici.
 
-Pomembno je, da pošljemo "signal za zaustavitev" računalnika, saj se sicer lahko zgodi, da se računalnik ne zaustavi pravilno.
+Pomembno je, da pošljemo "signal za zaustavitev" računalnika, sicer se lahko zgodi, da se računalnik ne zaustavi pravilno.  
+
 ![VirtualBox29](./slike/29.png)

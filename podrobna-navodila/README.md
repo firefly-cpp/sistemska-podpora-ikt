@@ -1,4 +1,4 @@
-<h1 align="center"> Podrobna navodila </h1>
+<h1 align="center"> Podrobna navodila</h1>
 
 ## Namestitev VirtualBoxa
 [Podrobna navodila za VirtualBox](./VirtualBox.md)
