@@ -16,6 +16,9 @@ V vsakem primeru pa je boljše preveriti, ali bo vsa strojna oprema delovala. Pr
 
 [Podrobna navodila za dual-boot](./podrobna-navodila/Dual-boot.md)
 
+#### Kaj storiti po namestitvi operacijskega sistema Fedora?
+[Priporočila](./podrobna-navodila/fedora-po-namestitvi.md)
+
 ## Literatura
 
 ## Povezave do uradne dokumentacije
