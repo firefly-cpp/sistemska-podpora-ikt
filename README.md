@@ -2,14 +2,14 @@
 
 ## Dodatno gradivo za predmet Sistemska podpora IKT
 
-## VirtualBox in Linux Fedora
+## VirtualBox in Fedora Linux
 #### Namestitev VirtualBoxa
 [Podrobna navodila za VirtualBox](./podrobna-navodila/VirtualBox.md)
 
-#### Namestitev Linux Fedora
+#### Namestitev Fedora Linux
 [Podrobna navodila za namestitev Fedore](./podrobna-navodila/Fedora.md)
 
-## Linux Fedora (dual-boot)
+## Fedora Linux (dual-boot)
 Čeprav Fedora deluje na številnih napravah, je priporočljivo, da uporabljate napravo, ki je navedena na strani s certificirano strojno opremo Linux. Običajno to naznanja nalepka "Ubuntu certified".
 
 V vsakem primeru pa je boljše preveriti, ali bo vsa strojna oprema delovala. Pred namestitvijo uporabite "okolje v živo" (angl. live environment) in preverite predvsem zvok, brezžično povezavo, Bluetooth, video in mikrofon.
