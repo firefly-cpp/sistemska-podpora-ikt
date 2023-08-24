@@ -2,10 +2,10 @@
 
 ## Prenos Docker slike
 ```bash
-docker pull codeberg.org/forgejo/forgejo:latest
+docker pull codeberg.org/forgejo/forgejo:1.20.3-0
 ```
 
 ## Poganjanje Docker slike
 ```bash
-docker run -p 3000:3000 -v forgejo:/data codeberg.org/forgejo/forgejo:latest
+docker run -p 3000:3000 -v forgejo:/data codeberg.org/forgejo/forgejo:1.20.3-0
 ```
