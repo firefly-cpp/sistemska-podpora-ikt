@@ -9,3 +9,12 @@ docker pull codeberg.org/forgejo/forgejo:1.20.3-0
 ```bash
 docker run -p 3000:3000 -v forgejo:/data codeberg.org/forgejo/forgejo:1.20.3-0
 ```
+
+## SSH
+Če želite omogočiti dostop SSH, med postopkom inicializacije določite ``SSH Server Point``. Na primer, če želite nastaviti vrata 22:
+![SSH Server Port](./slike/ssh-server-port.png)
+
+Po inicializaciji zaženite container z naslednjim ukazom:
+```bash
+docker run -p 3000:3000 -p 22:22 -v forgejo:/data codeberg.org/forgejo/forgejo:1.20.3-0
+```
