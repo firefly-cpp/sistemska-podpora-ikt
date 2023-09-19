@@ -1,4 +1,6 @@
-<h1 align="center"> Sistemska podpora IKT 2023/2024</h1>
+<h1 align="center">
+Sistemska podpora IKT 2023/2024 <br><br> <img width="200" height="200" src="./figures/SistemskaPodporaIKT256.png">
+</h1>
 
 ## Dodatno gradivo za predmet Sistemska podpora IKT
 
