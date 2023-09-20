@@ -1,0 +1,8 @@
+sed 's/Miha/Marjan/' tekmovanje.txt # preimenuj
+
+sed 's/Miha/Marjan/2' tekmovanje.txt # preimenuj n-to ujemanje
+
+sed 's/Miha/Marjan/g' tekmovanje.txt # preimenuj vsa ujemanja
+
+sed 's/Miha/Marjan/2g' tekmovanje.txt # preimenuj vsa ujemanja od drugega naprej
+

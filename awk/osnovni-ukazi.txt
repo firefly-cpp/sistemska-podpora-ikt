@@ -1,0 +1,7 @@
+awk '/an/ {print $1}' tekmovanje.txt
+
+awk '/an/ {print $2 "\t" $3}' tekmovanje.txt
+
+awk '/an/{++pon} END {print "Ponovitve: ", pon}' tekmovanje.txt
+
+awk 'length($0) > 10' tekmovanje.txt
