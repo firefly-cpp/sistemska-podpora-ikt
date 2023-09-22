@@ -31,6 +31,8 @@ V vsakem primeru pa je boljše preveriti, ali bo vsa strojna oprema delovala. Pr
 
 [3] [Podman](https://podman.io/)
 
+[4] [Nix](https://nixos.org/)
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 Material in this folder is licensed under a
