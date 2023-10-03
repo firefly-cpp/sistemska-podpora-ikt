@@ -1,6 +1,6 @@
-# Namestitev Linux Fedora v VM
+# Namestitev Fedora Linux v VM
 
-### Prenos Linux Fedora
+### Prenos Fedora Linux
 
 [Prenos Fedore](https://getfedora.org/en/workstation/download/)
 
@@ -18,7 +18,7 @@ Priporočeno je 3GB RAM-a, 2 jedra procesorja in 20GB prostora za disk.
 ![VirtualBox12](./slike/12.png)
 ![VirtualBox13](./slike/13.png)
 
-## Namestitev Linux Fedora
+## Namestitev Fedora Linux
 
 Priporočeno je 3GB RAM-a, 2 jedra procesorja in 20GB prostora za disk.
 Privzeto je **desni control** za konec zajema miške in tipkovnice.
