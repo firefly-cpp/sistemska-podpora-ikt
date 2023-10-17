@@ -1,0 +1,7 @@
+grep "primer1" datoteka.txt
+
+grep -i "Primer" datoteka.txt
+
+grep -iw "tej" datoteka.txt
+
+grep -c "primer" datoteka.txt

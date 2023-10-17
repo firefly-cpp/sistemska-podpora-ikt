@@ -1,0 +1,5 @@
+to je primer1 in
+to je primer2 in primer3
+v tej vrstici ni primera
+tukaj je primer1 in primer4 in primer5
+spet ni primera v tej vrstici
