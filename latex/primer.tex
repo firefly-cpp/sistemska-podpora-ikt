@@ -1,0 +1,51 @@
+\documentclass[a4paper,12pt]{article} 
+\usepackage[T1]{fontenc}
+% primer komentarja
+
+\title{Sistemska podpora IKT}
+\date{\today}
+\author{Ime Priimek}
+
+
+\begin{document}
+
+\maketitle
+ 
+\newpage
+
+\section{Uvod}  
+Primer uvoda.
+
+\subsection{Tabele}
+
+\begin{table}[htb]
+\centering
+\begin{tabular}{|c|c|}
+  \hline
+  Item 1 & Value 1 \\
+  Item 2 & Value 2 \\
+  \hline
+\end{tabular}
+  \caption{Tabela 1}
+\end{table}
+
+\begin{table}[htb]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|c|}{Dva stolpca} \\
+\hline
+1 & 2 \\
+\hline
+\end{tabular}
+\caption{Tabela 2}
+\end{table}
+
+\subsection{Reference}
+
+Primer citiranja~\cite{karakativc2022strojno}.
+
+\bibliographystyle{plain}
+\bibliography{bibtex.bib}
+
+\end{document}
