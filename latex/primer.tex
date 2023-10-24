@@ -1,5 +1,9 @@
 \documentclass[a4paper,12pt]{article} 
 \usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+
 % primer komentarja
 
 \title{Sistemska podpora IKT}
@@ -40,6 +44,34 @@ Primer uvoda.
 \end{tabular}
 \caption{Tabela 2}
 \end{table}
+
+\subsection{Slike}
+
+\begin{figure}[htb]                
+\centering
+\includegraphics{vprasaj.pdf}
+\caption{Ime slike}
+\end{figure}
+
+\subsection{Algoritmi}
+Primer algoritma je prikazan v Alg.~\ref{alg:primer}.
+
+\begin{algorithm}
+\begin{algorithmic}
+\Procedure{Primer}{}
+    \State Inicializiraj $a$ na 0
+    \State Inicializiraj $b$ na 1
+    \For{$i \gets 1$ to $n$}
+        \State $c \gets a + b$
+        \State $a \gets b$
+        \State $b \gets c$
+    \EndFor
+    \State \textbf{Izhod:} $a$
+\EndProcedure
+\end{algorithmic}
+\caption{Primer algoritma}
+\label{alg:primer}
+\end{algorithm}
 
 \subsection{Reference}
 
