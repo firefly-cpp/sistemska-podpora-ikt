@@ -299,3 +299,6 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+
+# dovoli naslednje
+!latex/vprasaj.pdf
