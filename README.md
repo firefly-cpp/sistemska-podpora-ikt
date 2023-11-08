@@ -23,6 +23,8 @@ V vsakem primeru pa je boljše preveriti, ali bo vsa strojna oprema delovala. Pr
 
 ## Literatura
 
+[1] [Sistemska administracija v Linuxu](https://press.um.si/index.php/ump/catalog/book/824)
+
 ## Povezave do uradne dokumentacije
 
 [1] [Fedora: Getting started](https://docs.fedoraproject.org/en-US/fedora/latest/getting-started/)
