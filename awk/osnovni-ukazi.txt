@@ -5,3 +5,7 @@ awk '/an/ {print $2 "\t" $3}' tekmovanje.txt
 awk '/an/{++pon} END {print "Ponovitve: ", pon}' tekmovanje.txt
 
 awk 'length($0) > 10' tekmovanje.txt
+
+awk 'END { print "Stevilo vrstic:", NR }' tekmovanje.txt
+
+awk '$1 > 25' podatki.txt
